@@ -1,0 +1,23 @@
+# Compiled binaries
+a.out
+*.out
+splitwise
+splitwise.exe
+*.exe
+
+# Object files and libraries
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor configurations
+.vscode/
+.idea/
+*.swp
+*~

@@ -533,6 +533,6 @@ Contributions, issues, and feature suggestions are welcome! Since this is an edu
 
 - **Author:** Arnav
 - **Course:** Software Development Fundamentals (SDF Lab Project)
-- **Institution:** [Your College / University Name]
+- **Institution:** Jaypee Institute of Information Technology (JIIT)
 
 Special thanks to our course instructors and teaching assistants for guidance on foundational C programming and data structures.
